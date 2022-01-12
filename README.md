@@ -7,3 +7,4 @@ A K-NN machine learning model was developed to predict whether users will purcha
 
 
 #### Testing set results visualization
+<img src="https://github.com/hedayaahmed/Ads-purchase/blob/main/Testing.png" width="500" height="400">
